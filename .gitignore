@@ -1,0 +1,8 @@
+#Files
+*~
+*.pyc
+*.pyo
+*.DS_Store
+
+#Directories
+*.egg-info/
